@@ -40,7 +40,7 @@ This project was created solely for educational purposes and is not intended for
 
 ![](/images/db_flow.png)
 
-# Database Overview [`↩`](#jumpto)
+# Prognosis Overview [`↩`](#jumpto)
 ![](/images/predictions.png)
 
 
@@ -61,6 +61,48 @@ This project was created solely for educational purposes and is not intended for
 
 
 # Results and Predictions [`↩`](#jumpto)
+
+
+## Patient Login
+![image](https://user-images.githubusercontent.com/46895613/124163241-04416200-dabd-11eb-8cb5-cb7f2e797288.png)
+
+## Patient Dashboard
+![image](https://user-images.githubusercontent.com/46895613/124163284-13c0ab00-dabd-11eb-8eda-3bcdaa80b118.png)
+
+## BMI Calculator
+
+![image](https://user-images.githubusercontent.com/46895613/124163301-17ecc880-dabd-11eb-9d37-57263f61b9f3.png)
+
+## Hospitals Near Me 
+
+![image](https://user-images.githubusercontent.com/46895613/124163318-1cb17c80-dabd-11eb-8d04-f1258f8da1e9.png)
+
+## Emergency Appointments
+
+![image](https://user-images.githubusercontent.com/46895613/124163399-35ba2d80-dabd-11eb-9c88-b7da0e774677.png)
+
+## Enter Symptoms Manually Login
+
+![image](https://user-images.githubusercontent.com/46895613/124163363-2b982f00-dabd-11eb-9dd5-3192e912e887.png)
+
+## RBF Network Based Prediction
+
+![image](https://user-images.githubusercontent.com/46895613/124163377-305ce300-dabd-11eb-83db-977b908e0927.png)
+
+## Describe How You Feel
+
+![image](https://user-images.githubusercontent.com/46895613/124163333-21763080-dabd-11eb-9f3b-cf317d207f3e.png)
+
+## NLP Based Prognosis 
+
+![image](https://user-images.githubusercontent.com/46895613/124163342-263ae480-dabd-11eb-95e9-5828168c916b.png)
+
+
+## Live Chat With Doctor 
+
+![image](https://user-images.githubusercontent.com/46895613/124163433-39e64b00-dabd-11eb-900a-cd12bdbd5491.png)
+
+
 
 # References [`↩`](#jumpto)
 
