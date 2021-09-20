@@ -18,6 +18,7 @@ This project was created solely for educational purposes and is not intended for
 * <a id="jumpto"></a> [Dataset](#dataset-)
 * <a id="jumpto"></a> [Context Diagram](#context-diagram-)
 * <a id="jumpto"></a> [Database Overview](#database-overview-)
+* <a id="jumpto"></a> [Prognosis Flow](#prognosis-flow-)
 * <a id="jumpto"></a> [Appointment booking and hospitals](#appointment-booking-and-hospitals-)
 * <a id="jumpto"></a> [Live Chat With Doctor](#live-chat-with-doctor-)
 * <a id="jumpto"></a> [Open-Source API](#open-source-api-)
@@ -39,6 +40,8 @@ This project was created solely for educational purposes and is not intended for
 
 ![](/images/db_flow.png)
 
+# Database Overview [`↩`](#jumpto)
+![](/images/predictions.png)
 
 
 # Appointment booking and hospitals [`↩`](#jumpto)
